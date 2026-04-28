@@ -1,0 +1,9 @@
+export const SAMPLE_TEXT = `The end-weight principle, which governs the distribution of heavy and light constituents across sentences and clauses, is fundamental to readable academic prose.
+
+Studies of corpus linguistics have shown that writers who organise their sentences with lighter initial constituents and heavier final constituents produce text that is significantly easier for readers to process. The complex interplay between syntactic structure and discourse organisation has been extensively examined by researchers in this field. It is the sentence-final position that typically bears the heaviest informational load in well-structured academic writing.
+
+A new framework for analysing information structure has recently been proposed. The framework draws on earlier theoretical work in functional grammar and Prague School linguistics. These theoretical foundations have been developed and refined over several decades of empirical investigation. However, their application to pedagogical settings and classroom instruction remains surprisingly limited.
+
+Passive constructions are frequently employed to foreground the outcome of a process rather than its agent. The agent, particularly in scientific writing, is often omitted entirely from the clause. This structural choice reflects a broader preference for objectivity and impersonality in academic discourse. Contrast markers such as 'however' and 'nevertheless' are especially important in signalling information focus at key discourse boundaries.
+
+Given information typically appears in subject position at the beginning of a sentence. New information, by contrast, is usually reserved for the end. This pattern of given-before-new creates a coherent chain of reference that links sentences together into a unified discourse. The referential chain is maintained through pronouns, demonstratives, and lexical repetition.`;
