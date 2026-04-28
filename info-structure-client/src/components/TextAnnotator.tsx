@@ -16,9 +16,10 @@ interface TooltipState {
 }
 
 const LAYER_LABELS: Record<LayerId, string> = {
-  'end-weight': 'End-weight',
-  focus: 'Focus',
-  flow: 'Flow',
+  'end-weight':   'End-weight',
+  focus:          'Focus',
+  flow:           'Flow',
+  'thematic-dev': 'Thematic Dev',
 };
 
 const LAYER_ACCENT: Record<LayerId, string> = {
