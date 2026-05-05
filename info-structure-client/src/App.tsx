@@ -241,7 +241,7 @@ export default function App() {
 
           {/* Footer */}
           <div className="mt-5 pt-4 border-t border-gray-100 text-center text-xs text-gray-400">
-            John Blake, Aston University &copy; 2026
+            John Blake, Aston University. Version 2.0.
           </div>
         </div>
       </div>
@@ -360,7 +360,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="bg-white border-t border-gray-100 px-4 py-2 text-center text-xs text-gray-400 shrink-0">
-        John Blake, Aston University &copy; 2026
+        John Blake, Aston University. Version 2.0.
       </footer>
     </div>
   );
